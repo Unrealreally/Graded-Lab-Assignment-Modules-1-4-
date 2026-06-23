@@ -1,0 +1,16 @@
+Environment Verification Report
+
+1. User Identity
+The id command was used to display user and group information.
+
+2. Active Shell
+The echo $SHELL command displayed the active shell.
+
+3. Current Directory
+The pwd command is used to display the current working directory.
+
+4. Directory listing
+The ls -la command displayed files and directories.
+
+5. Network Connectivity Verification
+the ping command verified internet connectivity.

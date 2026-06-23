@@ -1,0 +1,10 @@
+1. mkdir
+
+2. ls -ld
+
+3. chmod 700
+
+4. umask
+
+5. Ownership
+
